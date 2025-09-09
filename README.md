@@ -33,7 +33,7 @@
 ---
 
 ## 📫 How to Reach Me
-- 💼 [LinkedIn]([https://www.linkedin.com/in/nisaljayamuni](https://www.linkedin.com/in/nisal-jayamuni/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nisal-jayamuni/)  
 - ✉️ Email: nisalpramuditha.jayamuni@hdr.qut.edu.au  
 
 <!--

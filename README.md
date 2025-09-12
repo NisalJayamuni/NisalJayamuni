@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Nisal Jayamuni
 
-🚀 **PhD Candidate at QUT | Foamer Software Engineer | AI & ML Enthusiast**
+🚀 **PhD Candidate at QUT | Former Software Engineer | AI & ML Enthusiast**
 
 ---
 

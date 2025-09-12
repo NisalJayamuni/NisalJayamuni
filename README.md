@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 - 🎓 Currently pursuing my PhD at Queensland University of Technology (QUT).
-- 💻 Foamer-Software Engineer at **Axiata Digital Labs**.
+- 💻 Former-Software Engineer at **Axiata Digital Labs**.
 - 🤖 Passionate about **Machine Learning, LLMs, Multi-Agent Systems, and Large Concept Models**.
 
 
